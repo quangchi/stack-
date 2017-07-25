@@ -22,7 +22,6 @@ do{
 
 if(melecule[i]!=')' && !isdigit(melecule[i]))
  {
-  
   total.push(cho[melecule[i]]);
  } 
 if(isdigit(melecule[i]))
